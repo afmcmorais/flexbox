@@ -260,6 +260,9 @@ footer .footer{
     .menu ul {
         display: none;
     }
+    header{
+        height: 50px;
+    }
     .apresentacao{
         flex-direction: column-reverse;
         margin-top: 20px;
