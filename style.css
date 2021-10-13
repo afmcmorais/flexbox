@@ -45,6 +45,10 @@ header .list-items{
 .list-items li a{
     color: #ffffff;
 }
+.list-items li a:hover{
+    cursor: pointer;
+    color: orange;
+}
 
 header .menu{
     justify-content: space-between;
